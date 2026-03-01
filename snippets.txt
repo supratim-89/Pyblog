@@ -1,0 +1,23 @@
+posts: list[dict]=[
+{
+"id":1,
+"author":"Supratim",
+"title": "FastAPI Cookbook",
+"content":"FastAPI is awesome!!",
+"date_posted":"April 20, 2025"
+},
+{
+"id":2,
+"author":"Riyashree",
+"title": "Asian Cookbook",
+"content":"Asian street food  is awesome!!",
+"date_posted":"April 21, 2025"
+},
+{
+"id":3,
+"author":"Shanmukh",
+"title": "Racing Cookbook",
+"content":"Lets Race!!",
+"date_posted":"April 22, 2025"
+},
+]
